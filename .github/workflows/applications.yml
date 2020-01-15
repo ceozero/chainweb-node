@@ -4,7 +4,7 @@ on:
   push:
     branches:
     - master
-    - lars/github-ci
+    - ci/*
     - github-ci
     - release-candidate/*
 
